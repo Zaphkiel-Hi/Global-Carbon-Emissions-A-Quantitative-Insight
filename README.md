@@ -75,13 +75,8 @@ Global-Carbon-Emissions/
 - Deploy the model using **serverless infrastructure**.
 - Implement **user authentication** for personalized reports.
 
-## 🤝 Contributing
-Feel free to **fork** the repository, create a feature branch, and submit a **pull request**!
-
 ## 📜 License
 This project is licensed under the **MIT License**.
 
----
 
-Would you like me to refine anything further? 🚀
 
