@@ -4,7 +4,7 @@
 The **Global Carbon Emissions: A Quantitative Insight** project is designed to analyze and predict carbon emissions using **machine learning models**. It focuses on collecting real-time emission data, fine-tuning an LLM (Large Language Model), and providing insightful visualizations. The project aims to support organizations and researchers in understanding carbon footprint trends and forecasting future emissions based on historical data.
  
 ## 🚀 Features
-- **Data Scraping from Official Sources**: Extracts real-time carbon emissions data.
+- **Data Scraping from Official Sources**: Extracts real-time carbon emissions data. 
 - **Data Preprocessing & Cleaning**: Ensures high-quality and structured data.
 - **LLM Fine-Tuning**: Adapts the model to provide accurate predictions.
 - **Prediction Model**: Estimates carbon footprint based on user inputs.
