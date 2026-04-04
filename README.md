@@ -57,7 +57,7 @@ Global-Carbon-Emissions/
    source venv/bin/activate  # On Windows use: venv\Scripts\activate
    ```
 3. **Install Dependencies:**
-   ```sh
+   ```sh 
    pip install -r requirements.txt
    ```
 4. **Run the Streamlit App:**
