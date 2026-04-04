@@ -52,7 +52,7 @@ Global-Carbon-Emissions/
    cd Global-Carbon-Emissions
    ```
 2. **Create a Virtual Environment:**
-   ```sh
+   ```sh 
    python -m venv venv
    source venv/bin/activate  # On Windows use: venv\Scripts\activate
    ```
