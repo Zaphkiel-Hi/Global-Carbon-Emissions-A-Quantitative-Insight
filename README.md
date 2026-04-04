@@ -34,7 +34,7 @@ The project follows a **Microservices Architecture**, allowing modular developme
 ```
 Global-Carbon-Emissions/
 │-- data/                  # Raw and processed data
-│-- models/                # Machine learning models
+│-- models/                # Machine learning models 
 │-- src/                   # Source code
 │   ├── data_collection/   # Web scraping scripts 
 │   ├── preprocessing/     # Data cleaning scripts
