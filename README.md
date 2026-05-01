@@ -17,7 +17,7 @@ The project follows a **Microservices Architecture**, allowing modular developme
 - **Model Training Service**: Fine-tunes LLM and handles machine learning tasks. 
 - **Prediction API**: Serves prediction requests to users.
 - **Frontend (Streamlit Web App)**: Provides an interactive UI for users.  
-
+ 
 ## 🛠️ Tech Stack
 ### **Backend Development**
 - **Python**: Core programming language
