@@ -12,7 +12,7 @@ The **Global Carbon Emissions: A Quantitative Insight** project is designed to a
 - **User-Friendly Web Interface**: Accessible via Streamlit for real-time interaction.
  
 ## 🏗️ Architecture  
-The project follows a **Microservices Architecture**, allowing modular development and scalability.
+The project follows a **Microservices Architecture**, allowing modular development and scalability. 
 - **Data Collection Service**: Scrapes and processes carbon emission data.    
 - **Model Training Service**: Fine-tunes LLM and handles machine learning tasks.   
 - **Prediction API**: Serves prediction requests to users.
