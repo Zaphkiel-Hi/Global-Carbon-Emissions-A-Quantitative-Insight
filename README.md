@@ -8,10 +8,10 @@ The **Global Carbon Emissions: A Quantitative Insight** project is designed to a
 - **Data Preprocessing & Cleaning**: Ensures high-quality and structured data.
 - **LLM Fine-Tuning**: Adapts the model to provide accurate predictions.  
 - **Prediction Model**: Estimates carbon footprint based on user inputs.  
-- **Visualization & Insights**: Generates interactive charts and reports.   
+- **Visualization & Insights**: Generates interactive charts and reports.    
 - **User-Friendly Web Interface**: Accessible via Streamlit for real-time interaction.
  
-## 🏗️ Architecture   
+## 🏗️ Architecture  
 The project follows a **Microservices Architecture**, allowing modular development and scalability.
 - **Data Collection Service**: Scrapes and processes carbon emission data.    
 - **Model Training Service**: Fine-tunes LLM and handles machine learning tasks.   
